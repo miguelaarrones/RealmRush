@@ -3,4 +3,4 @@
 Objective: Defend your castle from the incoming enemies.
 
 ### Controls:
-- Mouse right click: Place towers.
+- Mouse left click: Place towers.
